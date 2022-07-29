@@ -1,0 +1,10 @@
+{
+    "categories": {
+        "0": "technical"
+    },
+    "description": "Highlight hashtags / mentions / timestamps.\n\n\nPreview:\nhttps://plugin-hashtag-highlighter.bubbleapps.io/version-test\n\nEditor:\nhttps://bubble.io/page?name=index&id=plugin-hashtag-highlighter&tab=tabs-1",
+    "image": "//s3.amazonaws.com/appforest_uf/f1594368905649x168445287718843800/Bubble%20Icon.png",
+    "license": "open_source",
+    "name": "Hashtag / @ / Timestamp Highlighter",
+    "plugin_instructions": "Note:\nYou need to enable \"Expose the option to add an ID attribute to HTML elements\" in Settings > General.\n\n\nPreview:\nhttps://plugin-hashtag-highlighter.bubbleapps.io/version-test\n\nEditor:\nhttps://bubble.io/page?name=index&id=plugin-hashtag-highlighter&tab=tabs-1"
+}

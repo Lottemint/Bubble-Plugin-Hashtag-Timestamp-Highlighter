@@ -1,0 +1,11 @@
+{
+    "assets": {
+        "AAD": {
+            "name": "marker.png",
+            "url": "//dd7tel2830j4w.cloudfront.net/f1594368884556x243691362795899650/marker.png"
+        }
+    },
+    "dependencies": {
+        "use_jquery": true
+    }
+}

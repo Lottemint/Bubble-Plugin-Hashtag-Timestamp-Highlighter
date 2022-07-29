@@ -1,0 +1,64 @@
+{
+    "add_is_visible": true,
+    "category": "visual elements",
+    "default_dim": {
+        "height": 20,
+        "width": 20
+    },
+    "display": "Hashtag",
+    "events": {
+        "AAE": {
+            "caption": "is clicked",
+            "name": "is_clicked"
+        }
+    },
+    "fields": {
+        "AAG": {
+            "caption": "Element id",
+            "doc": "ID of the Text element.",
+            "editor": "DynamicValue",
+            "name": "el_id",
+            "rank": 0,
+            "value": "text"
+        },
+        "AAJ": {
+            "caption": "Color",
+            "default_val": "rgba(0, 162, 255, 1)",
+            "editor": "Color",
+            "name": "color",
+            "rank": 1
+        },
+        "AAM": {
+            "caption": "Highlight",
+            "default_val": "#",
+            "editor": "Dropdown",
+            "in_style": true,
+            "name": "delimiter",
+            "options": "#,@,timestamp,#;@,#;timestamp,@;timestamp,#;@;timestamp",
+            "rank": 2
+        }
+    },
+    "has_reset_fn": false,
+    "icon": "ion-android-checkbox-blank",
+    "property_applications": {
+        "resizable": true
+    },
+    "states": {
+        "AAI": {
+            "caption": "value",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "hashtag",
+            "value": "text"
+        },
+        "AAN": {
+            "caption": "value type",
+            "initialization_code": {
+                "fn": "function(properties, context) {\n\n\n\n}"
+            },
+            "name": "value_type",
+            "value": "text"
+        }
+    }
+}
